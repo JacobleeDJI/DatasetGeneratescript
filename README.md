@@ -1,0 +1,1 @@
+#将CULane数据集转换为tusimple所需要的格式
